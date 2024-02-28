@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhenyu Wang"
+title                    : "Zhenyu Wang's Personal Page"
 title_separator          : "-"
 name                     : &name "Zhenyu Wang"
 description              : &description "personal description"
 url                      : https://vazine1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://vazine1.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "vazine1/vazine1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ author:
   avatar           : "IMG_26.png"
   name             : "Zhenyu Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Phoenix, Arizona"
   employer         : "Arizona State University"
   uri              : # URL
